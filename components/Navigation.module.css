@@ -1,0 +1,16 @@
+.header {
+  border: 1px solid #f5f5f5;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.navigation {
+  display: flex;
+  list-style: none;
+  gap: 32px;
+}
+
+.navigation a:hover {
+  color: green;
+  text-decoration: underline;
+}
